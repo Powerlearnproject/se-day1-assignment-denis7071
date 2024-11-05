@@ -86,4 +86,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Vague prompt - Explain AI. 
 Improved prompt - Explain artificial intelligence in simple terms, focusing on its applications in everyday life.
 
-The improved prompt is more effective as it provides a clear, focus and a specific audience, allowing the AI model to generate a concise and understandable response
+The improved prompt is more effective as it provides a clear, focus and a specific audience, allowing the AI model to generate a concise and understandable response.
